@@ -34,6 +34,9 @@
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				<ul class="nav navbar-nav">
 					<li><a href="/">Home</a></li>
+					<li><a href="/about">About Us</a></li>
+					<li><a href="/photo">Photo Gallery</a></li>
+					<li><a href="/contact">COntact Us</a></li>
 				</ul>
 
 				<ul class="nav navbar-nav navbar-right">
