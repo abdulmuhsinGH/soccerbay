@@ -43,8 +43,8 @@
 				<ul class="nav navbar-nav">
 					<li><a href="home">Home</a></li>
 					<li><a href="about">About Us</a></li>
-					<li><a href="photo">Photo Gallery</a></li>
-					<li><a href="contact">COntact Us</a></li>
+					{{-- <li><a href="photo">Photo Gallery</a></li> --}}
+					<li><a href="contact">Contact Us</a></li>
 				</ul>
 
 				<ul class="nav navbar-nav navbar-right">

@@ -34,10 +34,49 @@
 
 			  <!-- Tab panes -->
 			  <div class="tab-content">
-			    <div role="tabpanel" class="tab-pane active" id="home">...</div>
-			    <div role="tabpanel" class="tab-pane" id="profile">...</div>
-			    <div role="tabpanel" class="tab-pane" id="messages">...</div>
-			    <div role="tabpanel" class="tab-pane" id="settings">...</div>
+			    <div role="tabpanel" class="tab-pane active" id="home">
+			    	<p><b>Bio</b><br>
+			    		<p><b>PLAYER</b>: [Name]</p>
+						<p><b>SPORT</b>: Soccer</p>
+						<p><b>POSITION</b>: [Your Position]</p>
+
+						<p>
+							<b>CONTACT</b>:
+							[Home Address]
+							[City, Province/ Territory/ State, Postal Code/ Zip Code]
+							[Home Phone]
+							[Fax; Other Phone number, if any]
+							EMAIL: [Email]
+						</p>
+						<p>
+							<b>OBJECTIVE</b>: (Example): To play high-level soccer in college, assisting on the field in any way that I can.
+							SKILLS, TRAINING, AND PLAYING CHARACTERISTICS
+							(Examples): Exposed to and trained in all positions of competitive play; currently specializing in defensive responsibilities, (i.e. defender and sweeper) requiring delaying, channelization, acting as 1st and 2nd defender, tackling, counter-attacking, and support of ranging goalkeeper. Skilled in defensive techniques, including delaying, heading, slide tackling, shielding, and stripping.
+
+							Skilled with both right and left feet.
+
+							High intensity, high concentration. Excellent timing and anticipation, positioning, reading the game. Knowledgeable in rules of the game, team and individual strategy. High pain threshold.
+
+							Strong leadership skills on and off the field. Take-charge mentality. Loud game voice. 
+						</p>
+
+
+			    	</p>
+
+			    </div>
+			    <div role="tabpanel" class="tab-pane" id="profile">
+			    	<p><b>PERSONAL AWARDS, HONORS, ACHIEVEMENTS</b><br>
+					(Examples): Top Defender Team Award, [Date; School]
+					Co-Top Defender Team Award, [Date; School]
+					All-League, First Team (elected by opponent coaches in high school league) [Dates]
+					National Fitness Award, [Dates]</p>
+					<p><b>TEAM/ GROUP AWARDS</b><br>
+					(Examples): High School League champions, [Dates]
+					High School League, second place, [Dates]
+					Club teams with numerous tournament wins</p>
+				</div>
+			    <div role="tabpanel" class="tab-pane" id="messages"><img src="http://placehold.it/600x300"></div>
+			    <div role="tabpanel" class="tab-pane" id="settings"><img src="http://placehold.it/600x300"></div>
 			  </div>
 
 			</div>
