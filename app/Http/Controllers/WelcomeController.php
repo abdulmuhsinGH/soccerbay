@@ -30,12 +30,15 @@ class WelcomeController extends Controller {
 	 */
 	public function index()
 	{
-		return view('welcome');
+		return view('home');
 	}
 
 	public function contactUs()
 	{
-		return view('contact');
+
+		$label="About";
+		return view('contact')
+				->with('label', $label);
 	}
 
 	public function aboutUs()
@@ -46,6 +49,11 @@ class WelcomeController extends Controller {
 	public function photoGallery()
 	{
 		return view('photos');
+	}
+
+	public function playerInfo()
+	{
+		return view('player');
 	}
 
 

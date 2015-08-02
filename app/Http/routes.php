@@ -13,13 +13,15 @@
 
 Route::get('/', 'WelcomeController@index');
 
-Route::get('/about', 'WelcomeController@aboutUs');
+Route::get('about', 'WelcomeController@aboutUs');
 
-Route::get('/photo', 'WelcomeController@photoGallery');
+Route::get('photo', 'WelcomeController@photoGallery');
 
-Route::get('/contact', 'WelcomeController@contactUs');
+Route::get('contact', 'WelcomeController@contactUs');
 
 Route::get('home', 'HomeController@index');
+
+Route::get('player', 'WelcomeController@playerInfo');
 
 Route::controllers([
 	'auth' => 'Auth\AuthController',
